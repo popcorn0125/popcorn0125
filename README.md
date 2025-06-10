@@ -53,7 +53,6 @@
 </div>
 </br>
 
-
 <div align= "center"> 
 <h2> 🏅 Stats </h2> 
   <div align= "center"> 
@@ -61,4 +60,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popcorn0125&layout=compact&bg_color=180,fff0f0,00000000&title_color=000000&text_color=000000"/> 
   </div> 
 </div>
-    
+
+[material-palenight_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=material-palenight
+
